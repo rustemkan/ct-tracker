@@ -22,23 +22,7 @@
         "DLB MK2"
       ]
     },
-    "savedAt": "5/27/2026, 10:39:09 AM",
-    "savedBy": "Rustem"
-  },
-  "PNE100": {
-    "checkStates": {},
-    "notes": {},
-    "config": {
-      "site": "PNE100",
-      "ctName": "Rustem",
-      "platform": "optdc",
-      "romps": 8,
-      "devices": [
-        "AMCOP MK2",
-        "DLB MK2"
-      ]
-    },
-    "savedAt": "5/27/2026, 10:41:05 AM",
+    "savedAt": "5/27/2026, 11:24:03 AM",
     "savedBy": "Rustem"
   }
 }
