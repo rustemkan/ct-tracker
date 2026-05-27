@@ -1,0 +1,16 @@
+{
+  "checkStates": {},
+  "notes": {},
+  "config": {
+    "site": "PNE103",
+    "ctName": "Rustem",
+    "platform": "optdc",
+    "romps": 8,
+    "devices": [
+      "AMCOP MK2",
+      "DLB MK2"
+    ]
+  },
+  "savedAt": "5/27/2026, 12:03:24 PM",
+  "savedBy": "Rustem"
+}
