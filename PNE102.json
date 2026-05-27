@@ -1,5 +1,7 @@
 {
-  "checkStates": {},
+  "checkStates": {
+    "prenea-r1-0-1": "May 27, 2026, 12:02 PM"
+  },
   "notes": {},
   "config": {
     "site": "PNE102",
@@ -11,6 +13,6 @@
       "DLB MK2"
     ]
   },
-  "savedAt": "5/27/2026, 12:02:33 PM",
+  "savedAt": "5/27/2026, 12:02:42 PM",
   "savedBy": "Rustem"
 }
